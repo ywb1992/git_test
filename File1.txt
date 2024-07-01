@@ -1,4 +1,4 @@
 Git is a distributed version system.
 Git is not a frae software.
 Does git update?
-No!
+No! 
